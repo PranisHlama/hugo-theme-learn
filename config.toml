@@ -1,0 +1,30 @@
+baseURL = ""
+languageCode = 'en-us'
+title = 'Project 1'
+theme = 'hugo-theme-learn'
+
+[taxonomies]
+  tag = "tags"
+  category = "Categories"
+
+
+[params]
+
+
+[[params.social]]
+icon = "fa-facebook"
+url = "https://facebook.com/myusername"
+[[params.social]]
+icon = "fa-twitter"
+url = "https://twitter.com/myusername"
+[[params.social]]
+icon = "fa-instagram"
+url = "https://instagram.com/myusername"
+
+
+
+  showbreadcrumbs = true
+
+  showreadingtime = true
+
+  showsharebutton = true
